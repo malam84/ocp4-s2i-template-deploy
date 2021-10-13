@@ -1,0 +1,13 @@
+package com.ocp4.s2i.template.api;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BackendApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
